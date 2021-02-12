@@ -34,37 +34,7 @@
 .navbar a:hover {
   color: #f190af;
 }
+
 .content {
   max-width: 1200px;
-}
-
-.home {
-  text-align: center;
-  padding-left: 3rem;
-}
-
-.home h2 {
-  float: left;
-}
-
-.homePhrase {
-  font-weight: 400;
-  padding-top: 15rem;
-  font-size: 48px;
-  padding-left: 35rem;
-}
-
-.homeName {
-  font-family: "Caveat";
-  float: right;
-  font-size: 96px;
-  font-weight: 600;
-  color: #f1356d;
-  padding-left: 1rem;
-  margin: 0;
-  padding-top: 12.6rem;
-}
-
-.homeDescription {
-  font-size: 24px;
 }
